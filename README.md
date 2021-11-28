@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wiz80
+- 👋 Hi, I’m @hoyos_harry in Twitter
 - 👀 I’m interested in machine learning, data science, renowable energies and several other things!!
 - 🌱 I’m currently learning machine learning methods and freamworks :)
 - 💞️ I’m looking to collaborate on health, microgrids, e-vehicles projects 
