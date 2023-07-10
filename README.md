@@ -1,29 +1,24 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Wiz80/Wiz80/main/Profile2.png"></p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Backend+Developer;Python/Django+Developer;Software+Developer;Pasionate+About+Data;I+Love+Learning+New+Things;&center=true&width=500&height=50&color=A1A4B0"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;DevOps+Engineer;Python/Django+Developer;Software+Developer;Pasionate+About+Data;I+Love+Learning+New+Things;&center=true&width=500&height=50&color=A1A4B0"></a>
 </p>
 <br>
 
 
 ## :earth_americas: About Me
 - :battery: Hi, I’m @hoyos_harry in Twitter
-- :space_invader: I'm an Electrical Engineer specializing in data science and software development
-- 👀 I’m interested in machine learning, data science, cloud computing, enterprenurship!!
-- :surfer: I consider myself as a self learner, adaptable, compromised and love in team environments
-- :airplane: I'm studying now cloud computing, no-relational databases and RestFull Api's
+- :space_invader: I'm a DevOps Engineer and Data scientist
+- 👀 I’m interested in machine learning, data science, cloud computing, enterprenurship, IaC!!
+- :surfer: I consider myself as a self learner, adaptable and compromised 
+- :airplane: I'm studying now IaC, kubernetes, cloud computing, no-relational databases and RestFull Api's
 - 📫 How to reach me: please write me an e-mail at harrihoyos2680@gmail.com thank you for your interest 
 
 <br>
 
 ## :milky_way: My projects
-- <a href="https://github.com/Wiz80/Deep-Learning">Deep Learning Research project</a>
-- <a href="https://github.com/Wiz80/Auction-b2b">Auction B2B: Bussines idea that pretends making auction of second hand vehicles secure and reliable</a>
+- <a href="https://github.com/Wiz80/Mileto">Mileto: Web app for energy demand forecasting with ML</a>
+- <a href="https://github.com/Wiz80/k8s-hands-on/tree/master">k8s hands on: Kubernetes web app orquestration</a>
 - <a href="https://github.com/Wiz80/Azure_Django_PostgreSql_Inventario_API">Api inventory with Django and Azure</a>
-- <a href="https://github.com/Wiz80/Sixtina">Sixtina: Web app project to sell clothes using Django backend</a>
-- <a href="https://github.com/denisbunny100/Proyecto-IE-Sistemas-de-Potencia">Power Flows in distribution systems with Newton-Raphson method</a>
-- <a href="https://github.com/Wiz80/Yard-Sale">Yard Sale: Online web store frontend</a>
-- <a href="https://github.com/Wiz80/Asynchrony-JS">JavaScript Asynchrony: With the use of Rick and Morty API handling calls of async and awayt</a>
-- <a href="https://github.com/Wiz80/hyperblog">Hyperblog: Project to initialize with Git and GitHub</a>
+- <a href="https://github.com/Wiz80/practica-vagrant-rundeck-i2ds-devops">Vagrant + Rundeck: Infraestructure instance</a>
 
 <br>
 
